@@ -4,7 +4,7 @@
 The Diabetes Food Assessment project aims to provide individuals with diabetes an interactive tool to analyze the suitability of various food items. By uploading images of food, users can receive insights on the glycemic index, recommended dietary quantities, and detailed nutritional analysis, helping them make informed dietary choices.
 
 ## Features
-- **Image Upload**: Users can upload images of food items in JPG or PNG format.
+- **Image Upload**: Users can upload images of food items in JPG format.
 - **Food Analysis**: The application identifies food items and assesses their suitability for individuals with diabetes.
 - **Nutritional Insights**: Provides information on the glycemic index and macronutrient breakdown (proteins, carbohydrates, fats).
 - **Streamlit UI**: An interactive web interface built with Streamlit for user-friendly interaction.
