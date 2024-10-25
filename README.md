@@ -19,7 +19,9 @@ The Diabetes Food Assessment project aims to provide individuals with diabetes a
 └── README.md            # Project documentation
 
 ## Video Output
-Watch the project demo here: https://github.com/user-attachments/assets/e9649d8b-9882-46a7-9c4f-64f893568c26
+Watch the project demo here: 
+
+https://github.com/user-attachments/assets/e9649d8b-9882-46a7-9c4f-64f893568c26
 
 ## Requirements
 To run this project, ensure you have the following dependencies installed:
