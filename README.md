@@ -11,12 +11,14 @@ The Diabetes Food Assessment project aims to provide individuals with diabetes a
 - **Response Generation**: Utilizes the Gemini model to generate expert recommendations based on uploaded images.
 
 ## Project Structure
+```plaintext
 ├── app.py               
 ├── model.py             
 ├── requirements.txt      
 ├── .gitignore           
 ├── LICENSE                     
-└── README.md            
+└── README.md
+```            
 
 ## Video Output
 Watch the project demo here: 
