@@ -1,6 +1,6 @@
-# Diabetes Food Assessment
+# Diabetes Food Assessment 🍽️
 
-## Project Goal
+## Project Goal 🎯
 The Diabetes Food Assessment project aims to provide individuals with diabetes an interactive tool to analyze the suitability of various food items. By uploading images of food, users can receive insights on the glycemic index, recommended dietary quantities, and detailed nutritional analysis, helping them make informed dietary choices.
 
 ## Features
@@ -10,7 +10,7 @@ The Diabetes Food Assessment project aims to provide individuals with diabetes a
 - **Streamlit UI**: An interactive web interface built with Streamlit for user-friendly interaction.
 - **Response Generation**: Utilizes the Gemini model to generate expert recommendations based on uploaded images.
 
-## Project Structure
+## Project Structure 📁
 ```plaintext
 ├── app.py               
 ├── model.py             
@@ -20,12 +20,12 @@ The Diabetes Food Assessment project aims to provide individuals with diabetes a
 └── README.md
 ```            
 
-## Video Output
+## Video Output 🎥
 Watch the project demo here: 
 
 https://github.com/user-attachments/assets/e9649d8b-9882-46a7-9c4f-64f893568c26
 
-## Requirements
+## Requirements 📦
 To run this project, ensure you have the following dependencies installed:
 
 - `streamlit`
@@ -37,7 +37,7 @@ You can install the required packages using pip:
 ```bash
 pip install streamlit google-generativeai python-dotenv
 ```
-## Usage 
+## Usage 🚀
 Clone the repository:
 ```bash
 git clone https://github.com/mrinmoycyber/Diabetes-Food-Assessment.git
